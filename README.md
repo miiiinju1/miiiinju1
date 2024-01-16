@@ -7,20 +7,16 @@
 <h3 align="left">⚡️ Tech Stack </h3>
 <div align=left> 
 
-  <p><strong>Language</strong></p>  
+  <strong>Language : </strong> 
   <img src="https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">
   <br/><br/>
-  
-  
-  <p><strong>Backend</strong></p>
+  <strong>Backend : </strong>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> 
   <img src="https://img.shields.io/badge/Redis-D9281A?style=for-the-badge&logo=Redis&logoColor=white">
   <br/><br/>
-  
-  <p><strong>DevOps</strong></p>
-  
+  <strong>DevOps : </strong>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"> 
   <img src="https://img.shields.io/badge/githubactions-2B8CFF?style=for-the-badge&logo=githubactions&logoColor=white"> 
   <img src="https://img.shields.io/badge/docker-2668EF?style=for-the-badge&logo=docker&logoColor=white"> 
