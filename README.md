@@ -34,11 +34,6 @@
 </div>
 
 ---
-<h3 align="left">⚡️ Most Used Languages </h3>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miiiinju1)](https://github.com/anuraghazra/github-readme-stats)
-
----
 
 <h3 align="left">🚀 Experience </h3>
 
