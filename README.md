@@ -14,7 +14,6 @@
 
   <strong>Language : </strong> 
   <img src="https://img.shields.io/badge/-Java-red?style=flat&logo=java&logoColor=white"> 
-  <img src="https://img.shields.io/badge/-Python-blue?style=flat&logo=python&logoColor=white">
   <br/><br/>
   <strong>Backend : </strong>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F.svg?style=for-the-badge&logo=SpringBoot&logoColor=white"> 
