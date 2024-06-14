@@ -38,7 +38,7 @@
 <h3 align="left">🚀 Experience </h3>
 
 - SW Maestro 14th
-- 우아한테크캠프 7기
+- 우아한테크캠프 7th
 ---
  
 <h3 align="left">📌 Problem Solving Stats </h3>
