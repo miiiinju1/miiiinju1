@@ -48,7 +48,7 @@
 
 <h3 align="left">🏅 Certifications </h3>
 <div align=left> 
-  <a href="https://certi.programmers.co.kr/result/share/5729?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community" target="_blank">
+  <a href="https://certi.programmers.co.kr/result/share/5729?utm_campaign=certi-issuance-share&utm_content=share&utm_medium=social&utm_source=community" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/PCCP%20Java%20Lv.5-1000%20점-brightgreen?style=flat-square&logo=java&logoColor=white">
   </a>
 </div>
