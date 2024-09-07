@@ -46,7 +46,7 @@
 
 - **Java (OpenJDK)** – OpenJDK 메일링 리스트에 ‘LinkedBlockingQueue’와 ‘ArrayBlockingQueue’의 put() 구현에서 발생할 수 있는 스레드 starvation으로 FIFO 위반의 가능성을 제안했습니다. (2024.09.04 ~ )
 	- [최초 이슈 제기](https://mail.openjdk.org/pipermail/core-libs-dev/2024-September/128746.html)
-	- [문제 상세 설명](https://mail.openjdk.org/pipermail/core-libs-dev/2024-September/129031.html)
+	- [문제 상세 설명](https://mail.openjdk.org/pipermail/core-libs-dev/2024-September/129031.html) + [오류 정정](https://mail.openjdk.org/pipermail/core-libs-dev/2024-September/129085.html)
 
 ---
 
