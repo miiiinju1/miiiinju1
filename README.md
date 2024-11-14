@@ -36,7 +36,7 @@
 <h3 align="left">🚀 Experience </h3>
 
 - SW Maestro 14th
-- 우아한테크캠프 7th
+- 우아한테크캠프 7th - (우아한형제들 기술블로그 게시 : https://techblog.woowahan.com/19370/)
 
 ---
 
