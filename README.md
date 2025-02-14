@@ -34,3 +34,8 @@
     <img src="https://img.shields.io/badge/PCCP%20Java%20Lv.5-1000%20점-brightgreen?style=flat-square&logo=java&logoColor=white">
   </a>
 </div>
+
+### OpenSource
+[**OpenJDK**](https://mail.openjdk.org/pipermail/core-libs-dev/2024-September/128963.html) – Issue: Thread starvation in LinkedBlockingQueue and ArrayBlockingQueue (AbstractQueuedSynchronizer)
+
+[**ArgoCD**](https://github.com/argoproj/argo-cd/pull/19471)
